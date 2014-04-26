@@ -1,0 +1,1 @@
+$.vegas("slideshow",{backgrounds:[{src:"img/slider/01.jpg",fade:2000},{src:"img/slider/02.jpg",fade:2000},{src:"img/slider/03.jpg",fade:2000},{src:"img/slider/04.jpg",fade:2000},{src:"img/slider/05.jpg",fade:2000}]})("overlay",{src:"img/overlays/16.png"}),$("#vegas-next").click(function(){$.vegas("next")}),$("#vegas-prev").click(function(){$.vegas("previous")})
